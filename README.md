@@ -1,2 +1,2 @@
 # Practice-in-machine-learning
-Practice in machine learning 1 course
+Практика по машинному обучению 1 курс
